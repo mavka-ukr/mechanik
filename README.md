@@ -1,7 +1,7 @@
 ![Screenshot_20231214_093612_Brave](https://github.com/mavka-ukr/kitkit/assets/21020331/457cdab3-2d92-4809-a026-4ffe1f98795e)
 ![Screenshot_20231214_093844_Brave](https://github.com/mavka-ukr/kitkit/assets/21020331/fe498a4a-ab7d-48bf-868b-6f9dd045925c)
 
-# Мікрокіт
+# Моторкіт
 
 Архітектура механічно-цифрового кота. Ну майже кота.
 
