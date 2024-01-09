@@ -1,6 +1,8 @@
 ![Screenshot_20231214_093612_Brave](https://github.com/mavka-ukr/kitkit/assets/21020331/457cdab3-2d92-4809-a026-4ffe1f98795e)
 ![Screenshot_20231214_093844_Brave](https://github.com/mavka-ukr/kitkit/assets/21020331/fe498a4a-ab7d-48bf-868b-6f9dd045925c)
 
+<img src="https://github.com/mavka-ukr/mechanokit/assets/21020331/cc213546-9b7a-4a24-a87e-90ebba371159" width="100" height="100" /> 
+
 # Механокіт
 
 Архітектура механічно-цифрового кота. Ну майже кота.
