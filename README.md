@@ -3,7 +3,7 @@
 
 <img src="https://github.com/mavka-ukr/mechanokit/assets/21020331/cc213546-9b7a-4a24-a87e-90ebba371159" width="100" height="100" /> 
 
-# Механокіт
+# Механік
 
 Архітектура механічно-цифрового кота. Ну майже кота.
 
